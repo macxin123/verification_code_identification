@@ -1,0 +1,2 @@
+# verification_code_identification
+基于机器学习算法的验证码识别脚本
